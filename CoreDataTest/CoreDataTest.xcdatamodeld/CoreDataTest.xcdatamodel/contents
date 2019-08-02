@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14886.2" systemVersion="19A526h" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Dummy" representedClassName="CoreDataTest.Dummy" syncable="YES" codeGenerationType="class">
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="value" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Dummy" positionX="-63" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>

@@ -1,0 +1,7 @@
+*xcuserdatad*
+xcuserdata
+xcuserstate
+build
+*swp
+Carthage
+.DS_Store
